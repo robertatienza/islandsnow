@@ -7,3 +7,21 @@
   box-shadow: none;
   border: none;
 }
+
+.white-background {
+  background-color: white;
+  height: 600px;
+}
+
+.black-background {
+  background-color: #292929;
+  color: whitesmoke;
+  height: 400px;
+}
+
+.colorblocktop {
+  padding-top: 20px;
+}
+.colorblockbottom {
+  padding-bottom: 20px;
+}
